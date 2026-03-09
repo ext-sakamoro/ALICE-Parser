@@ -1,0 +1,10 @@
+[package]
+name = "alice-parser"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "Parser combinator library: PEG, Pratt parsing, recursive descent, tokenizer, error recovery"
+
+[lib]
+crate-type = ["rlib"]
