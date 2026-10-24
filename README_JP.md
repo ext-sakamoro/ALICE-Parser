@@ -48,4 +48,6 @@ let value = JsonParser::parse(r#"{"key": [1, 2, 3]}"#).unwrap();
 
 ## ライセンス
 
-MIT OR Apache-2.0
+`LicenseRef-Proprietary` 条文は [LICENSE-Proprietary](LICENSE-Proprietary)
+
+Enquiries: https://extoria.co.jp/
